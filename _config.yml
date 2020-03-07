@@ -11,7 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: geeks@snipcart.com
+email: ouroffice19@gmail.com
 description: This demo store is a Jekyll-built static site. The shopping cart runs
   on Snipcart—it lets you add custom e-commerce to any site in minutes.
 baseurl: 
