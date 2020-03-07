@@ -14,8 +14,8 @@ collections:
 email: geeks@snipcart.com
 description: This demo store is a Jekyll-built static site. The shopping cart runs
   on Snipcart—it lets you add custom e-commerce to any site in minutes.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: Zoolemon
 github_username: Zoolemon
 plugins:
